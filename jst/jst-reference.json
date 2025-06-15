@@ -158,5 +158,29 @@
             ["*But I will give unto them the law as at the first, but it shall be after the law of a carnal commandment; for I have sworn in my wrath, that they shall not enter into my presence, into my rest, in the days of their pilgrimage. Therefore do as I have commanded thee,* and be ready in the morning, and come up in the morning unto mount Sinai, and present thyself there to me, in the top of the mount."],
             ["For thou shalt worship no other god; for the Lord, whose name is *Jehovah*, is a jealous God."]
         ]
+    },
+    "Deuteronomy": {
+        "10": [
+            ["And I will write on the tables the words that were *on* the first tables, which thou brakest, *save the words of the everlasting covenant of the holy priesthood,* and thou shalt put them in the ark."]
+        ]
+    },
+    "1 Samuel": {
+        "16": [
+            ["But the Spirit of the Lord departed from Saul, and an evil spirit *which was not of* the Lord troubled him."],
+            ["And Saul's servants said unto him, Behold now, an evil spirit *which is not of* God troubleth thee."],
+            ["Let our lord now command thy servants, which are before thee, to seek out a man, who is a cunning player on a harp; and it shall come to pass, when the evil spirit, *which is not of* God, is upon thee, that he shall play with his hand, and thou shalt be well."],
+            ["And it came to pass, when the evil spirit, *which was not of* God, was upon Saul, that David took a harp, and played with his hand; so Saul was refreshed, and was well, and the evil spirit departed from him."]
+        ],
+        "18": [
+            ["And it came to pass on the morrow, that the evil spirit *which was not of* God came upon Saul, and he prophesied in the midst of the house: and David played with his hand, as at other times: and there was a javelin in Saul's hand."]
+        ],
+        "19": [
+            ["And the evil spirit *which was not of* the LORD was upon Saul, as he sat in his house with his javelin in his hand: and David played with his hand."]
+        ]
+    },
+    "2 Samuel": {
+        "12": [
+            ["And David said unto Nathan, I have sinned against the Lord. And Nathan said unto David, The Lord also hath *not* put away thy sin *that* thou shalt not die."]
+        ]
     }
 }
