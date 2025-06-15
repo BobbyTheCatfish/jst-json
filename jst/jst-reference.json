@@ -55,7 +55,7 @@
                 "*And they have not observed mine anointing, and the burial, or baptism wherewith I commanded them;*",
                 "*But have turned from the commandment, and taken unto themselves the washing of children, and the blood of sprinkling;*",
                 "*And have said that the blood of the righteous Abel was shed for sins; and have not known wherein they are accountable before me.*",
-                "*But* as for *thee*, behold, *I will* make my covenant with thee, and thou shalt be a father of many nations.",
+                "*But* as for *thee*, behold, *I will* make my covenant with thee, and thou shalt be a father of many nations."
             ],
             ["*And this covenant I make, that thy children may be known among all nations.* Neither shall thy name any more be called Abram, but thy name shall be called Abraham; for, a father of many nations have I made thee."],
             ["And I will make thee exceedingly fruitful, and I will make nations of thee, and kings shall come of thee, *and of thy seed.*"],
@@ -114,11 +114,31 @@
     },
     "Exodus": {
         "4": [
-            ["And the Lord said unto Moses, When thou goest to return into Egypt, see that thou do all those wonders before Pharaoh, which I have put in thine hand, *and I will prosper thee;* but *Pharaoh* will hearden his heart, *and* he *will* not let the people go."]
+            ["And the Lord said unto Moses, When thou goest to return into Egypt, see that thou do all those wonders before Pharaoh, which I have put in thine hand, *and I will prosper thee;* but *Pharaoh* will hearden his heart, *and* he *will* not let the people go."],
+            ["And it came to pass, *that the Lord appeared unto him as he was in* the way, *by* the inn. *The Lord was angry with Moses, and his hand was about to fall upon him,* to kill him; *for he had not circumcised his son.*"],
+            ["Then Zipporah took a sharp stone and *circumcised* her son, and cast *the stone* at his feet, and said, Surely *thou art* a bloody husband unto me."],
+            ["*And the Lord spared Moses and* let him go, *because Zipporah, his wife, circumcised the child. And* she said, Thou art a bloody husband. *And Moses was ashamed, and hid his face from the Lord, and said, I have sinned before the Lord.*"],
+            ["And the Lord said unto Aaron, Go into the wilderness to meet Moses, and he went and met him, in the mount of God; *in the mount where God appeared unto him;* and *Aaron* kissed him."]
         ],
         "7": [
             ["And *Pharaoh* will harden *his* heart, and multiply my signs and my wonders in the land of Egypt."],
             ["And *Pharaoh* hardened *his* heart, that he hearkened not unto them; as the Lord had said."]
+        ],
+        "9": [
+            ["And *Pharaoh heardened his heart*, and he hearkened not unto them; as the LORD had spoken unto Moses."]
+        ],
+        "10": [
+            ["And the LORD said unto Moses, Go in unto Pharaoh: for *he has* hardened his heart, and the heart of his servants, that I might shew these my signs before him:"],
+            ["But *Pharaoh heardened his* heart, that he would not let the children of Israel go."],
+            ["But *Pharaoh heardened his* heart, and he would not let them go."]
+        ],
+        "11": [
+            ["And Moses and Aaron did all these wonders before Pharaoh: and *Pharaoh heardened his* heart, that he would not let the children of Israel go out of his land."]
+        ],
+        "14": [
+            ["And *Pharaoh will hearden his* heart, that he shall follow after them; and I will be honoured upon Pharaoh, and upon all his host; that the Egyptians may know that I am the LORD. And they did so."],
+            ["And *Pharaoh king of Egypt hardened his* heart, and he pursued after the children of Israel: and the children of Israel went out with an high hand."],
+            ["And I, behold, *the* hearts of the Egyptians *will harden*, and they shall follow them: and I will get me honour upon Pharaoh, and upon all his host, upon his chariots, and upon his horsemen."]
         ]
     }
 }
