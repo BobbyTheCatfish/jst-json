@@ -686,13 +686,37 @@
         ]
     },
     "Acts": {
-        "": [
-
+        "9": [
+            ["And *they who were journeying* with him *saw indeed the light, and were afraid; but they heard not the voice of him who spake to him.*"]
+        ],
+        "22": [
+            ["Then straightway they departed from him which should have examined him, and the chief captain also was afraid after he knew that he was a Roman, because he had bound him, *and he loosed him from his bands*."],
+            ["On the morrow, because he would have known the certainty wherefore he was accused of the Jews, *he* commanded the chief priests and all their council to appear, and brought Paul down, and set him before them."]
         ]
     },
     "Romans": {
-        "": [
-
+        "3": [
+            ["But if we *remain in* our unrighteousness *and* commend the righteousness of God, *how dare* we say, God is unrighteous who taketh vengeance? (I speak as a man *who fears God*,)"],
+            ["God forbid; for then how shall God judge the world?"],
+            ["For if the truth of God hath more abounded through my lie, *(as it is called of the Jews,)* unto his glory; why yet am I also judged as a sinner?"],
+            ["And not *received? Because* we *are* slanderously reported. And some affirm that we say, *(whose damnation is just,)* Let us do evil that good may come. *But this is false*."]
+        ],
+        "4": [
+            ["For if Abraham were justified by *the law of* works, he hath to glory *in himself*; but not *of* God."],
+            ["For what saith the scripture? Abraham believed God, and it was counted unto him for righteousness."],
+            ["Now to him *who is justified by the law of works*, is the reward reckoned, not of grace, but of debt."],
+            ["But to him that *seeketh not to be justified by the law of works*, but believeth on him who justifieth *not* the ungodly, his faith is counted for righteousness."],
+            ["Therefore *ye are justified* of faith *and works, through* grace, to the end the promise might be sure to all the seed; not to *them* only *who are* of the law, but to *them* also *who are* of the faith of Abraham; who is the father of us all,"]
+        ],
+        "7": [],
+        "8": [
+            ["So then they that are *after* the flesh cannot please God."],
+            ["For *him* whom he did foreknow, he also did predestinate to be conformed to *his own* image, that he might be the firstborn among many brethren."],
+            ["Moreover, *him* whom he did predestinate, *him* he also called; and *him* whom he called, *him* he also *sanctified*; and *him* whom he *sanctified, him* he also glorified."]
+        ],
+        "13": [
+            ["For, for this cause pay ye *your consecrations* also *unto them*; for they are God's ministers, attending continually upon this very thing."],
+            ["*But first*, render to all their dues, *according to custom*, tribute to whom tribute, custom to whom custom, *that your consecrations may be done in* fear *of him* to whom fear *belongs, and in* honor *of him* to whom honor *belongs*."]
         ]
     },
     "1 Corinthians": {
