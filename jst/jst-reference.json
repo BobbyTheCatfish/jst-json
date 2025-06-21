@@ -862,8 +862,12 @@
         ]
     },
     "1 Peter": {
-        "": [
-
+        "3": [
+            ["*Some of whom* were disobedient *in the days of Noah, while* the long-suffering of God waited, while the ark was preparing, wherein few, that is, eight souls were saved by water."]
+        ],
+        "4": [
+            ["*Because of this*, is the gospel preached to them *who* are dead, that they might be judged according to men in the flesh, but live *in the spirit* according to *the will of God*."],
+            ["And above all things have fervent charity among yourselves; for charity *preventeth* a multitude of sins."]
         ]
     },
     "2 Peter": {
