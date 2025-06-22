@@ -179,60 +179,66 @@
     },
     "1 Samuel": {
         "16": [
-            ["But the Spirit of the Lord departed from Saul, and an evil spirit *which was not of* the Lord troubled him."],
-            ["And Saul's servants said unto him, Behold now, an evil spirit *which is not of* God troubleth thee."],
-            ["Let our lord now command thy servants, which are before thee, to seek out a man, who is a cunning player on a harp; and it shall come to pass, when the evil spirit, *which is not of* God, is upon thee, that he shall play with his hand, and thou shalt be well."],
-            ["And it came to pass, when the evil spirit, *which was not of* God, was upon Saul, that David took a harp, and played with his hand; so Saul was refreshed, and was well, and the evil spirit departed from him."]
+            [
+                "14 But the Spirit of the Lord departed from Saul, and an evil spirit *which was not of* the Lord troubled him.",
+                "15 And Saul's servants said unto him, Behold now, an evil spirit *which is not of* God troubleth thee.",
+                "16 Let our lord now command thy servants, which are before thee, to seek out a man, who is a cunning player on a harp; and it shall come to pass, when the evil spirit, *which is not of* God, is upon thee, that he shall play with his hand, and thou shalt be well."
+            ],
+            ["23 And it came to pass, when the evil spirit, *which was not of* God, was upon Saul, that David took a harp, and played with his hand; so Saul was refreshed, and was well, and the evil spirit departed from him."]
         ],
         "18": [
-            ["And it came to pass on the morrow, that the evil spirit *which was not of* God came upon Saul, and he prophesied in the midst of the house: and David played with his hand, as at other times: and there was a javelin in Saul's hand."]
+            ["10 And it came to pass on the morrow, that the evil spirit *which was not of* God came upon Saul, and he prophesied in the midst of the house: and David played with his hand, as at other times: and there was a javelin in Saul's hand."]
         ],
         "19": [
-            ["And the evil spirit *which was not of* the LORD was upon Saul, as he sat in his house with his javelin in his hand: and David played with his hand."]
+            ["9 And the evil spirit *which was not of* the LORD was upon Saul, as he sat in his house with his javelin in his hand: and David played with his hand."]
         ]
     },
     "2 Samuel": {
         "12": [
-            ["And David said unto Nathan, I have sinned against the Lord. And Nathan said unto David, The Lord also hath *not* put away thy sin *that* thou shalt not die."]
+            ["13 And David said unto Nathan, I have sinned against the Lord. And Nathan said unto David, The Lord also hath *not* put away thy sin *that* thou shalt not die."]
         ]
     },
     "1 Chronicles": {
         "21": [
-            ["And God sent an angel unto Jerusalem to destroy it. *And the angel stretched forth his hand unto Jerusalem to destroy it; and God said to the angel, Stay now thine hand, it is enough; for* as he was destroying, the Lord beheld *Israel, that* he repented him of the evil; *therefore the Lord stayed* the angel that destroyed, *as he* stood by the threshing floor of Ornan, the Jebusite."]
+            ["15 And God sent an angel unto Jerusalem to destroy it. *And the angel stretched forth his hand unto Jerusalem to destroy it; and God said to the angel, Stay now thine hand, it is enough; for* as he was destroying, the Lord beheld *Israel, that* he repented him of the evil; *therefore the Lord stayed* the angel that destroyed, *as he* stood by the threshing floor of Ornan, the Jebusite."]
         ]
     },
     "2 Chronicles": {
         "18": [
-            ["Now therefore, behold, the Lord hath *found* a lying spirit in the mouth of these thy prophets, and the Lord hath spoken evil against thee."]
+            ["22 Now therefore, behold, the Lord hath *found* a lying spirit in the mouth of these thy prophets, and the Lord hath spoken evil against thee."]
         ]
     },
     "Psalms": {
         "11": [
-            ["*In that day thou shalt come, O Lord; and* I will put my trust *in thee. Thou shalt say unto thy people, for mine ear hath heard thy voice; thou shalt say unto every* soul, Flee unto *my* mountain; *and the righteous shall flee like* a bird *that is let go from the snare of the fowler.*"],
-            ["For the wicked bend their bow; lo, they make ready their arrow upon the string, that they may privily shoot at the upright in heart, *to destroy their foundation.*"],
-            ["*But* the foundations *of the wicked shall* be destroyed, *and* what can *they* do?"],
-            ["*For* the Lord, *when he shall come into* his holy temple, *sitting upon God's* throne in heaven, his eyes *shall pierce the wicked.*"],
-            ["Behold his eyelids *shall* try the children of men,* and he shall redeem the righteous, and they shall be tried.* The Lord *loveth* the righteous, but the wicked, and him that loveth violence, his soul hateth."]
+            [
+                "1 *In that day thou shalt come, O Lord; and* I will put my trust *in thee. Thou shalt say unto thy people, for mine ear hath heard thy voice; thou shalt say unto every* soul, Flee unto *my* mountain; *and the righteous shall flee like* a bird *that is let go from the snare of the fowler.*",
+                "2 For the wicked bend their bow; lo, they make ready their arrow upon the string, that they may privily shoot at the upright in heart, *to destroy their foundation.*",
+                "3 *But* the foundations *of the wicked shall* be destroyed, *and* what can *they* do?",
+                "4 *For* the Lord, *when he shall come into* his holy temple, *sitting upon God's* throne in heaven, his eyes *shall pierce the wicked.*",
+                "5 Behold his eyelids *shall* try the children of men,* and he shall redeem the righteous, and they shall be tried.* The Lord *loveth* the righteous, but the wicked, and him that loveth violence, his soul hateth."
+            ]
         ],
         "14": [
-            ["The fool hath said in his heart, *There is no man that hath seen God. Because he showeth himself not unto us, therefore* there is no God. *Behold*, they are corrupt; they have done abominable works, *and none of them* doeth good."],
-            ["*For* the Lord looked down from heaven upon the children of men, *and by his voice said unto his servant, Seek ye among the children of men,* to see if there *are* any that *do* understand God.* And he opened his mouth unto the Lord, and said, Behold, all these who say they are thine.*"],
-            ["*The Lord answered, and said,* They are all gone aside, they are together become filthy, *thou canst behold* none *of them* that *are doing* good, no, not one."],
-            ["*All they have for their teachers are* workers of iniquity, *and there is* no knowledge *in them. They are they* who eat up my people. They eat bread and call not upon the Lord."],
-            ["They *are* in great fear, for God *dwells* in the generation of the righteous. *He is the counsel of the poor, because they are ashamed of the wicked, and flee unto the Lord, for their refuge.*"],
-            ["*They are ashamed of* the counsel of the poor because the Lord is his refuge."],
-            ["Oh that *Zion were established out of heaven*, the salvation of Israel. *O Lord, when wilt thou establish Zion?* When the Lord bringeth back the captivity of his people, Jacob shall rejoice, Israel shall be glad."]
+            [
+                "1 The fool hath said in his heart, *There is no man that hath seen God. Because he showeth himself not unto us, therefore* there is no God. *Behold*, they are corrupt; they have done abominable works, *and none of them* doeth good.",
+                "2 *For* the Lord looked down from heaven upon the children of men, *and by his voice said unto his servant, Seek ye among the children of men,* to see if there *are* any that *do* understand God.* And he opened his mouth unto the Lord, and said, Behold, all these who say they are thine.*",
+                "3 *The Lord answered, and said,* They are all gone aside, they are together become filthy, *thou canst behold* none *of them* that *are doing* good, no, not one.",
+                "4 *All they have for their teachers are* workers of iniquity, *and there is* no knowledge *in them. They are they* who eat up my people. They eat bread and call not upon the Lord.",
+                "5 They *are* in great fear, for God *dwells* in the generation of the righteous. *He is the counsel of the poor, because they are ashamed of the wicked, and flee unto the Lord, for their refuge.*",
+                "6 *They are ashamed of* the counsel of the poor because the Lord is his refuge.",
+                "7 Oh that *Zion were established out of heaven*, the salvation of Israel. *O Lord, when wilt thou establish Zion?* When the Lord bringeth back the captivity of his people, Jacob shall rejoice, Israel shall be glad."
+            ]
         ],
         "24": [
             [
-                "Lift up your heads, O ye *generations of Jacob*; and be ye lifted up; *and* the Lord strong and mighty; the Lord mighty in battle, who is the king of glory, *shall establish you forever.*",
-                "*And he will roll away the heavens; and will come down to redeem his people; to make you an everlasting name; to establish you upon his everlasting rock."
-            ],
-            ["Lift up your heads, O ye *generations of Jacob*; lift up *your heads*, ye everlasting *generations*, and the *Lord of hosts, the king of kings;*"],
-            ["*Even* the king of glory shall come *unto you; *and shall redeem his people, and shall establish them in righteousness.* Selah."]
+                "7-8 Lift up your heads, O ye *generations of Jacob*; and be ye lifted up; *and* the Lord strong and mighty; the Lord mighty in battle, who is the king of glory, *shall establish you forever.*",
+                "+ *And he will roll away the heavens; and will come down to redeem his people; to make you an everlasting name; to establish you upon his everlasting rock.",
+                "9 Lift up your heads, O ye *generations of Jacob*; lift up *your heads*, ye everlasting *generations*, and the *Lord of hosts, the king of kings;*",
+                "10 *Even* the king of glory shall come *unto you; *and shall redeem his people, and shall establish them in righteousness.* Selah."
+            ]
         ],
         "109": [
-            ["*And, notwithstanding* my love, they are my adversaries; *yet* I *will continue in* prayer *for them.*"]
+            ["4 *And, notwithstanding* my love, they are my adversaries; *yet* I *will continue in* prayer *for them.*"]
         ]
     },
     "Isaiah": {
