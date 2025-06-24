@@ -20,14 +20,19 @@ const jstCopy = { ...jst };
 function getJST(book, chapter, index) {
     const verse = jstCopy[book][chapter][index]
     if (verse === undefined) console.log(`${book} ${chapter} [${index}] doesn't exist.`);
-    else if (verse === null) console.log(`${book} ${chapter} [${index}] already used!`);
+    else if (verse === null) return verse; //console.log(`${book} ${chapter} [${index}] already used!`);
     else if (!Array.isArray(verse)) console.log(`${book} ${chapter} [${index}] not an array!`);
     
+    verse?.forEach((v) => {
+        if (!startMatch.test(v)) console.log(`${book} ${chapter} [${index}] doesn't start with a num or a +`)
+    })
+
     jstCopy[book][chapter][index] = null;
     return verse;
 }
 
 const jstMatch = /\[JST ([0-9]{1,2})\]/
+const startMatch = /^[0-9+]/
 
 /**
  * @param {typeof ot | typeof nt} json 
